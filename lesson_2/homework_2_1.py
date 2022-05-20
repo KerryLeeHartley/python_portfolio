@@ -15,10 +15,11 @@ print(result_string_3)
 # between. Save a result in a variable result_full_name and
 # save the length of the whole name in result_full_name_length variable.
 
-first_name = "Kerry"
-last_name = "Hartley"
-result_full_name = first_name , last_name
-result_full_name_length = result_full_name.__len__()
+first_name = 'Kerry'
+last_name = 'Hartley'
+result_full_name = F'{first_name} {last_name}'
+print(result_full_name)
+result_full_name_length = len(result_full_name)
 print(result_full_name_length)
 
 
