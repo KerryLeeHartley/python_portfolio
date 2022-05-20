@@ -18,7 +18,7 @@ print(result_string_3)
 first_name = "Kerry"
 last_name = "Hartley"
 result_full_name = first_name , last_name
-result_full_name_length = result_full_name.__len__()
+result_full_name_length = result_full_name
 print(result_full_name_length)
 
 
