@@ -1,1 +1,1 @@
-# Careerist Python course homework
+# Welcome to my Python portfolio! This code repository contains examples of Python I've written.
